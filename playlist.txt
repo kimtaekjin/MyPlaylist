@@ -14,3 +14,9 @@
  에스파                 drama 
  정국                   seven
  이세돌                  kidding
+
+ #애니메이션 노래 목록
+ ---------------------------------------------
+ 디지몬                 butterply
+ 코난                   hello mr myyesterday
+ 
